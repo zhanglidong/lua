@@ -28,7 +28,7 @@ package lmodjs
 import (
 	"syscall/js"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 // Open opens the module.

@@ -29,7 +29,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 // Test runs the specified test script file.

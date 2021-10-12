@@ -23,7 +23,7 @@ misrepresented as being the original software.
 package lmodtable
 
 import (
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 type sorter lua.State

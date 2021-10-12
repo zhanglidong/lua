@@ -25,7 +25,7 @@ package lmodutf8
 import (
 	"unicode/utf8"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 func index(l *lua.State, n, i, j int) (int, int) {

@@ -27,7 +27,7 @@ import (
 	"math/rand"
 	"time"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 func init() {

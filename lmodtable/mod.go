@@ -26,7 +26,7 @@ import (
 	"sort"
 	"strings"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 // Open opens the module.

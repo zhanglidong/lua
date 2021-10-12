@@ -27,7 +27,7 @@ package lmodjs
 import (
 	"syscall/js"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 func jsmeta(l *lua.State) int {

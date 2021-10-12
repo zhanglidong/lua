@@ -26,9 +26,9 @@ package util
 import (
 	"fmt"
 
-	"ofunc/lua"
-	"ofunc/lua/lmodbase"
-	"ofunc/lua/lmodos"
+	"github.com/zhanglidong/lua"
+	"github.com/zhanglidong/lua/lmodbase"
+	"github.com/zhanglidong/lua/lmodos"
 )
 
 const (

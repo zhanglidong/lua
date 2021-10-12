@@ -25,7 +25,7 @@ package lmodos
 import (
 	"os"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 func matefile(l *lua.State) int {

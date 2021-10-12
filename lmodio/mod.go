@@ -30,7 +30,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"ofunc/lua"
+	"github.com/zhanglidong/lua"
 )
 
 // Open opens the module.

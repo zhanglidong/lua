@@ -2,7 +2,7 @@
 
 This is a Lua 5.3 VM and compiler written in [Go](http://golang.org/). This is intended to allow easy embedding into Go programs, with minimal fuss and bother. It can also run in a browser by Webassembly.
 
-This repository is forked from [milochristiansen/lua](https://github.com/milochristiansen/lua), and I made some incompatible changes. So it's unlikely to be merged into the original repository.
+This repository is forked from [ofunc/lua](https://github.com/ofunc/lua), and I made some incompatible changes. So it's unlikely to be merged into the original repository.
 
 The strftime function and string pattern matching is currently copied from [yuin/gopher-lua](https://github.com/yuin/gopher-lua). It may be rewritten in the future.
 
@@ -12,7 +12,7 @@ The strftime function and string pattern matching is currently copied from [yuin
 package main
 
 import (
-	"ofunc/lua/util"
+	"github.com/zhanglidong/lua/util"
 )
 
 func main() {
